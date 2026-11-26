@@ -2,3 +2,4 @@
 
 Fixture repository for the omp-dispatch click-path end-to-end check.
 dispatch e2e marker
+dispatch e2e marker b-base
